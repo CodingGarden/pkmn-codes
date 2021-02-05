@@ -1,0 +1,10 @@
+main {
+  display: flex;
+  justify-content: center;
+}
+
+#video {
+  visibility: hidden;
+  width: 500px;
+  transform: scaleX(1)!important;
+}
